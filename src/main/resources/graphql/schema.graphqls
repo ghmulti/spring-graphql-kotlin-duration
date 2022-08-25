@@ -1,0 +1,10 @@
+scalar Duration
+
+type Query {
+    test: [Sample]
+}
+
+type Sample {
+    duration: Duration
+}
+
