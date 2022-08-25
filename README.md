@@ -1,0 +1,1 @@
+### Sample spring graphql kotlin app
